@@ -1,0 +1,2 @@
+Web Server Example
+This folder contains example Terraform templates that deploy a cluster of web servers (using EC2 and Auto Scaling) and a load balancer (using ELB) in an Amazon Web Services (AWS) account. The load balancer listens on port 80 and returns the text "Hello, World" for the / URL.
